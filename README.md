@@ -11,7 +11,7 @@ float[][] map = MapGenerator.GenerateNoiseMap(mapWidth, mapHeight, seed, scale, 
 ```
 ## Results
 Here are some images I created for a game project (I use LibGdx this is why I used the Vector2 class)
-![](mapgen/map_ex1.png"Hope")
-![](mapgen/map_ex2.png"You")
-![](mapgen/map_ex3.png"Enjoy")
-![](mapgen/map_ex4.png":)")
+![ex1](mapgen/map_ex1.png)
+![ex2](mapgen/map_ex2.png)
+![ex3](mapgen/map_ex3.png)
+![ex4](mapgen/map_ex4.png)
